@@ -1,0 +1,12 @@
+/Users/rkentish/Source/linqtest/bin/Debug/netcoreapp3.1/linqtest.deps.json
+/Users/rkentish/Source/linqtest/bin/Debug/netcoreapp3.1/linqtest.runtimeconfig.json
+/Users/rkentish/Source/linqtest/bin/Debug/netcoreapp3.1/linqtest.runtimeconfig.dev.json
+/Users/rkentish/Source/linqtest/bin/Debug/netcoreapp3.1/linqtest.dll
+/Users/rkentish/Source/linqtest/bin/Debug/netcoreapp3.1/linqtest.pdb
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.csprojAssemblyReference.cache
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.AssemblyInfoInputs.cache
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.AssemblyInfo.cs
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.csproj.CoreCompileInputs.cache
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.dll
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.pdb
+/Users/rkentish/Source/linqtest/obj/Debug/netcoreapp3.1/linqtest.genruntimeconfig.cache
